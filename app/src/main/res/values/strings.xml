@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Login Application</string>
+    <string name="txtView1">Welcome</string>
+    <string name="Img1">Image View</string>
+    <string name="Edt1">Enter UserName</string>
+    <string name="Edt2">Enter Password</string>
+    <string name="btn1">Sign In</string>
+</resources>
